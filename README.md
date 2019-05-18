@@ -1,22 +1,10 @@
-## Dark Arch
+## Dark Grummos
 
-*Dark Arch* is a theme for Plymouth, the boot splash tool for Linux. It's designed with Arch Linux in mind, but can be used in any installation that uses Plymouth.
+*Dark Grummos* is a theme for Plymouth, running on my custom arch build GrummOS
+Based off Josep Sayol's dark-arch Plymouth Theme
 
-[![Screenshot](https://jsayol.github.io/plymouth-theme-dark-arch/img/screenshot_small.png)](https://jsayol.github.io/plymouth-theme-dark-arch/img/screenshot.png)
+[![Screenshot](https://raw.githubusercontent.com/Grummus/plymouth-dark-grummos/master/screenshot.png)](https://raw.githubusercontent.com/Grummus/plymouth-dark-grummos/master/screenshot.png)
 
-## How to install the theme
-Use your favorite way to install packages from the AUR. For example:
-
-    yaourt -S plymouth-theme-dark-arch
-
-Once installed you can set it as your theme:
-
-    sudo plymouth-set-default-theme -R arch-dark
-
-## How to uninstall the theme
-Simply remove the package with pacman:
-
-    sudo pacman -Rs plymouth-theme-dark-arch
 
 ## License
 
