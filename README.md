@@ -1,7 +1,7 @@
 ## Dark Grummos
 
-*Dark Grummos* is a theme for Plymouth, running on my custom arch build GrummOS
-Based off Josep Sayol's dark-arch Plymouth Theme
+*Dark Grummos* is a theme for Plymouth, running on my custom arch build GrummOS  
+This theme is ~~stolen from~~ based off Josep Sayol's dark-arch Plymouth Theme
 
 [![Screenshot](https://raw.githubusercontent.com/Grummus/plymouth-dark-grummos/master/screenshot.png)](https://raw.githubusercontent.com/Grummus/plymouth-dark-grummos/master/screenshot.png)
 
