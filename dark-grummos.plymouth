@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Dark Grummos
+Description=Dark Arch theme by Josep Sayol
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/dark-grummos
+ScriptFile=/usr/share/plymouth/themes/dark-grummos/theme.script
